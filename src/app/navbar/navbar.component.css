@@ -1,0 +1,16 @@
+.intro-banner {
+    padding: 7em 0;
+    background-color: #efeffa;
+    text-align: center;
+    border-bottom-left-radius: 25%;
+    border-top-right-radius: 25%;
+    margin-bottom: 2em;
+}
+
+.intro-banner h2 {
+    color: #664784;
+}
+
+.intro-banner p {
+    font-weight: 200;
+}
